@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "shift-alt-up": "rectangular-selection:move-up",
+    "shift-alt-down": "rectangular-selection:move-down"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rectangular-selection",
+  "main": "./lib/rectangular-selection",
+  "version": "0.1.0",
+  "description": "Enable rectangular selection.",
+  "private": true,
+  "repository": "https://github.com/iguchi1124/rectangular-selection",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
